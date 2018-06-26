@@ -1,0 +1,7 @@
+D:\Softuni\exam1\exericse3\bin\Debug\exericse3.exe.config
+D:\Softuni\exam1\exericse3\bin\Debug\exericse3.exe
+D:\Softuni\exam1\exericse3\bin\Debug\exericse3.pdb
+D:\Softuni\exam1\exericse3\obj\Debug\exercise3.csprojResolveAssemblyReference.cache
+D:\Softuni\exam1\exericse3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+D:\Softuni\exam1\exericse3\obj\Debug\exericse3.exe
+D:\Softuni\exam1\exericse3\obj\Debug\exericse3.pdb

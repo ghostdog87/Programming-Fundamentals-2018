@@ -1,0 +1,7 @@
+D:\Softuni\Lesson14 - Dictionaries\Exercise11WithObjects\bin\Debug\Exercise11WithObjects.exe.config
+D:\Softuni\Lesson14 - Dictionaries\Exercise11WithObjects\bin\Debug\Exercise11WithObjects.exe
+D:\Softuni\Lesson14 - Dictionaries\Exercise11WithObjects\bin\Debug\Exercise11WithObjects.pdb
+D:\Softuni\Lesson14 - Dictionaries\Exercise11WithObjects\obj\Debug\Exercise11WithObjects.csproj.CoreCompileInputs.cache
+D:\Softuni\Lesson14 - Dictionaries\Exercise11WithObjects\obj\Debug\Exercise11WithObjects.exe
+D:\Softuni\Lesson14 - Dictionaries\Exercise11WithObjects\obj\Debug\Exercise11WithObjects.pdb
+D:\Softuni\Lesson14 - Dictionaries\Exercise11WithObjects\obj\Debug\Exercise11WithObjects.csprojResolveAssemblyReference.cache

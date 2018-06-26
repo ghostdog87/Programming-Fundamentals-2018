@@ -1,0 +1,7 @@
+D:\Softuni\Lesson14 - Dictionaries\Exercise7\bin\Debug\Exercise7.exe.config
+D:\Softuni\Lesson14 - Dictionaries\Exercise7\bin\Debug\Exercise7.exe
+D:\Softuni\Lesson14 - Dictionaries\Exercise7\bin\Debug\Exercise7.pdb
+D:\Softuni\Lesson14 - Dictionaries\Exercise7\obj\Debug\Exercise7.csprojResolveAssemblyReference.cache
+D:\Softuni\Lesson14 - Dictionaries\Exercise7\obj\Debug\Exercise7.csproj.CoreCompileInputs.cache
+D:\Softuni\Lesson14 - Dictionaries\Exercise7\obj\Debug\Exercise7.exe
+D:\Softuni\Lesson14 - Dictionaries\Exercise7\obj\Debug\Exercise7.pdb

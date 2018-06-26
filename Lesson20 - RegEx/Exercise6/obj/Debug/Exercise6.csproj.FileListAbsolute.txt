@@ -1,0 +1,7 @@
+D:\Softuni\Lesson20 - RegEx\Exercise6\bin\Debug\Exercise6.exe.config
+D:\Softuni\Lesson20 - RegEx\Exercise6\bin\Debug\Exercise6.exe
+D:\Softuni\Lesson20 - RegEx\Exercise6\bin\Debug\Exercise6.pdb
+D:\Softuni\Lesson20 - RegEx\Exercise6\obj\Debug\Exercise6.csprojResolveAssemblyReference.cache
+D:\Softuni\Lesson20 - RegEx\Exercise6\obj\Debug\Exercise6.csproj.CoreCompileInputs.cache
+D:\Softuni\Lesson20 - RegEx\Exercise6\obj\Debug\Exercise6.exe
+D:\Softuni\Lesson20 - RegEx\Exercise6\obj\Debug\Exercise6.pdb

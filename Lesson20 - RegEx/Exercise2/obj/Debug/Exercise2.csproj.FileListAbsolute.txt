@@ -1,0 +1,6 @@
+D:\Softuni\Lesson20 - RegEx\Exercise2\bin\Debug\Exercise2.exe.config
+D:\Softuni\Lesson20 - RegEx\Exercise2\bin\Debug\Exercise2.exe
+D:\Softuni\Lesson20 - RegEx\Exercise2\bin\Debug\Exercise2.pdb
+D:\Softuni\Lesson20 - RegEx\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\Softuni\Lesson20 - RegEx\Exercise2\obj\Debug\Exercise2.exe
+D:\Softuni\Lesson20 - RegEx\Exercise2\obj\Debug\Exercise2.pdb

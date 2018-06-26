@@ -1,0 +1,6 @@
+D:\Softuni\Real Exam\Exercise2\bin\Debug\Exercise2.exe.config
+D:\Softuni\Real Exam\Exercise2\bin\Debug\Exercise2.exe
+D:\Softuni\Real Exam\Exercise2\bin\Debug\Exercise2.pdb
+D:\Softuni\Real Exam\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\Softuni\Real Exam\Exercise2\obj\Debug\Exercise2.exe
+D:\Softuni\Real Exam\Exercise2\obj\Debug\Exercise2.pdb

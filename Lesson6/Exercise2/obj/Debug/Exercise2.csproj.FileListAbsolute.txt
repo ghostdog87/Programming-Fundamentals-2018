@@ -1,0 +1,7 @@
+c:\users\x\source\repos\Lesson6\Exercise2\bin\Debug\Exercise2.exe.config
+c:\users\x\source\repos\Lesson6\Exercise2\bin\Debug\Exercise2.exe
+c:\users\x\source\repos\Lesson6\Exercise2\bin\Debug\Exercise2.pdb
+c:\users\x\source\repos\Lesson6\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+c:\users\x\source\repos\Lesson6\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+c:\users\x\source\repos\Lesson6\Exercise2\obj\Debug\Exercise2.exe
+c:\users\x\source\repos\Lesson6\Exercise2\obj\Debug\Exercise2.pdb

@@ -1,0 +1,7 @@
+D:\Softuni\Exercise1\Lesson8 - Methods\bin\Debug\Lesson8 - Methods.exe.config
+D:\Softuni\Exercise1\Lesson8 - Methods\bin\Debug\Lesson8 - Methods.exe
+D:\Softuni\Exercise1\Lesson8 - Methods\bin\Debug\Lesson8 - Methods.pdb
+D:\Softuni\Exercise1\Lesson8 - Methods\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+D:\Softuni\Exercise1\Lesson8 - Methods\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+D:\Softuni\Exercise1\Lesson8 - Methods\obj\Debug\Lesson8 - Methods.exe
+D:\Softuni\Exercise1\Lesson8 - Methods\obj\Debug\Lesson8 - Methods.pdb

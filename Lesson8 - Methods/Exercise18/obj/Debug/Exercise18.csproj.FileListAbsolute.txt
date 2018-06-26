@@ -1,0 +1,13 @@
+D:\Softuni\Exercise1\Exercise18\bin\Debug\Exercise18.exe.config
+D:\Softuni\Exercise1\Exercise18\bin\Debug\Exercise18.exe
+D:\Softuni\Exercise1\Exercise18\bin\Debug\Exercise18.pdb
+D:\Softuni\Exercise1\Exercise18\obj\Debug\Exercise18.csproj.CoreCompileInputs.cache
+D:\Softuni\Exercise1\Exercise18\obj\Debug\Exercise18.exe
+D:\Softuni\Exercise1\Exercise18\obj\Debug\Exercise18.pdb
+D:\Softuni\Lesson8 - Methods\Exercise18\bin\Debug\Exercise18.exe.config
+D:\Softuni\Lesson8 - Methods\Exercise18\bin\Debug\Exercise18.exe
+D:\Softuni\Lesson8 - Methods\Exercise18\bin\Debug\Exercise18.pdb
+D:\Softuni\Lesson8 - Methods\Exercise18\obj\Debug\Exercise18.csprojResolveAssemblyReference.cache
+D:\Softuni\Lesson8 - Methods\Exercise18\obj\Debug\Exercise18.csproj.CoreCompileInputs.cache
+D:\Softuni\Lesson8 - Methods\Exercise18\obj\Debug\Exercise18.exe
+D:\Softuni\Lesson8 - Methods\Exercise18\obj\Debug\Exercise18.pdb

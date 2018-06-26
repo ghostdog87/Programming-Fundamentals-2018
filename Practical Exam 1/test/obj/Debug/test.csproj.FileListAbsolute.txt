@@ -1,0 +1,6 @@
+D:\Softuni\Practical Exam 1\test\bin\Debug\test.exe.config
+D:\Softuni\Practical Exam 1\test\bin\Debug\test.exe
+D:\Softuni\Practical Exam 1\test\bin\Debug\test.pdb
+D:\Softuni\Practical Exam 1\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Softuni\Practical Exam 1\test\obj\Debug\test.exe
+D:\Softuni\Practical Exam 1\test\obj\Debug\test.pdb

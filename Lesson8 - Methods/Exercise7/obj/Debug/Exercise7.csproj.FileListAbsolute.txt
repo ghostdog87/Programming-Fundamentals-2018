@@ -1,0 +1,7 @@
+D:\Softuni\Exercise1\Exercise7\bin\Debug\Exercise7.exe.config
+D:\Softuni\Exercise1\Exercise7\bin\Debug\Exercise7.exe
+D:\Softuni\Exercise1\Exercise7\bin\Debug\Exercise7.pdb
+D:\Softuni\Exercise1\Exercise7\obj\Debug\Exercise7.csprojResolveAssemblyReference.cache
+D:\Softuni\Exercise1\Exercise7\obj\Debug\Exercise7.csproj.CoreCompileInputs.cache
+D:\Softuni\Exercise1\Exercise7\obj\Debug\Exercise7.exe
+D:\Softuni\Exercise1\Exercise7\obj\Debug\Exercise7.pdb
